@@ -1,4 +1,4 @@
-# AgriLinker (AgroMarket) - Flutter frontend prototype
+# AgriLinker (AgroMarket) - Flutter prototype
 
 Frontend-only, local dummy data. No backend.
 
